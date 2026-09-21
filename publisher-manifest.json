@@ -1,0 +1,122 @@
+{
+  "version": 2,
+  "template_version": "d39ce472eeb3cc3f10e7",
+  "page_size": 20,
+  "site_id": "f8d22a3f30c297ff20763d14",
+  "owner": "mfvxby",
+  "repo": "page-482f1b758063a23844c5b4a8",
+  "title": "土豆云(POTATO)",
+  "mode": "repo",
+  "articles": [
+    {
+      "id": "482f1b758063a23844c5b4a8",
+      "a": "土豆云(POTATO)",
+      "b": "稳定全球clash加速器",
+      "entity": "土豆云(POTATO)",
+      "brand": "土豆云(POTATO)",
+      "separator": "|",
+      "path": "index.html",
+      "hash": "31296d5d6eff87c06f315eb839e56ba72b21e4c6f72623291ba23cdb73d65729",
+      "content": {
+        "primary_entity": "土豆云(POTATO)",
+        "keyword1": "土豆云(POTATO)",
+        "keyword2": "稳定全球clash加速器",
+        "content": {
+          "AI_DESCRIPTION": "，面向需要稳定全球网络连接的用户提供多档订阅选择与客户端配置支持。基础版每月 100GB 流量适合轻度使用，旗舰版每月 300GB 并配置 IPLC 专线适合游戏与流媒体，团队版每月 1000GB 支持 20 台设备同时在线。各版本均提供流媒体解锁与节点池差异，按年付可享受更优价格，用户可依设备数量与流量需求挑选合适方案。",
+          "AI_HERO_SUBTITLE": "多设备订阅按需选配",
+          "AI_HERO_INTRO": "土豆云(POTATO)提供基础版、旗舰版与团队版订阅，覆盖从个人轻量到团队多设备的使用场景，配合 Clash 客户端完成订阅导入即可按套餐使用对应流量与节点。",
+          "AI_VISUAL_TITLE": "土豆云套餐速览",
+          "AI_HIGHLIGHT_1": "基础版每月100GB流量",
+          "AI_HIGHLIGHT_2": "旗舰版IPLC专线优化",
+          "AI_HIGHLIGHT_3": "团队版支持20台设备",
+          "AI_FEATURES_TITLE": "套餐与设备选配要点",
+          "AI_FEATURES_INTRO": "依据设备数量、流量消耗与使用场景，在三个套餐间做出合适选择。",
+          "AI_FEATURE_TITLE_1": "按流量档位选择",
+          "AI_FEATURE_TEXT_1": "基础版提供每月 100GB，旗舰版 300GB，团队版 1000GB，按日常流量消耗对应选择。",
+          "AI_FEATURE_TITLE_2": "按设备数量匹配",
+          "AI_FEATURE_TEXT_2": "基础版支持 3 台设备同时在线，旗舰版 5 台，团队版可支持 20 台设备同时使用。",
+          "AI_FEATURE_TITLE_3": "按订阅周期权衡",
+          "AI_FEATURE_TEXT_3": "月付灵活起步，年付在基础版、旗舰版、团队版上均提供更优价格，适合长期使用。",
+          "AI_CLIENTS_TITLE": "客户端选择建议",
+          "AI_CLIENTS_INTRO": "不同设备适合的 Clash 客户端不同，可按系统对应选择并参照客户端文档导入订阅。",
+          "AI_PLANS_TITLE": "套餐对比",
+          "AI_PLANS_INTRO": "对比三档套餐的价格、流量与设备数，基础版适合个人轻量，旗舰版适合游戏与流媒体，团队版适合多设备团队。",
+          "AI_GUIDE_TITLE": "使用步骤",
+          "AI_GUIDE_INTRO": "从选择套餐到完成客户端订阅配置，按三个步骤完成设置。",
+          "AI_STEP_TITLE_1": "选择服务套餐",
+          "AI_STEP_TEXT_1": "根据设备数量与每月流量需求，在基础版、旗舰版或团队版中选定一档订阅。",
+          "AI_STEP_TITLE_2": "查看适配要求",
+          "AI_STEP_TEXT_2": "确认所用设备的系统类型与客户端要求，核对套餐支持的设备数量是否满足需要。",
+          "AI_STEP_TITLE_3": "配置订阅",
+          "AI_STEP_TEXT_3": "在所选的 Clash 客户端中，按客户端文档说明导入订阅信息并完成节点配置。",
+          "AI_CLOSING_TITLE": "按需选定土豆云套餐",
+          "AI_CLOSING_TEXT": "参照流量与设备数量对比三档方案，选择适合的订阅并完成客户端配置。",
+          "AI_FAQ_ANSWER_1": "基础版每月100GB流量、支持3台设备；旗舰版每月300GB、支持5台设备；团队版每月1000GB、支持20台设备。根据日常用量和设备数量选择即可。",
+          "AI_FAQ_ANSWER_2": "可以。土豆云支持手机、电脑等常见平台的客户端，导入订阅后即可使用，具体配置方式可参考对应客户端文档。",
+          "AI_FAQ_ANSWER_3": "支付成功后，在客户端中导入订阅链接，选择节点连接即可。不同客户端的导入位置略有差异，按客户端文档操作即可完成。",
+          "AI_FAQ_ANSWER_4": "基础版适合个人轻度使用，旗舰版增加了IPLC专线游戏加速优化，适合对延迟敏感的游戏或流媒体场景。",
+          "AI_FAQ_ANSWER_5": "登录用户中心即可查看当前套餐的流量使用和设备在线情况，也可以根据需要随时升级套餐。",
+          "AI_FAQ_INTRO": "订阅导入、设备限制与付费周期。",
+          "AI_FAQ_QUESTION_1": "土豆云套餐的流量和设备数怎么选？",
+          "AI_FAQ_QUESTION_2": "土豆云支持哪些设备客户端？",
+          "AI_FAQ_QUESTION_3": "订阅如何导入到客户端？",
+          "AI_FAQ_QUESTION_4": "旗舰版比基础版多了什么？",
+          "AI_FAQ_QUESTION_5": "如何查看已用流量和剩余流量？",
+          "AI_FAQ_TITLE": "关于订阅与套餐的常见问题"
+        },
+        "plans": [
+          {
+            "name": "基础版",
+            "price": "¥15/月",
+            "annual_price": "按年付仅需 ¥150/年",
+            "features": [
+              "每月 100GB 极速流量",
+              "支持 3 台设备同时在线",
+              "解锁基础流媒体",
+              "普通线路节点池"
+            ]
+          },
+          {
+            "name": "旗舰版",
+            "price": "¥35/月",
+            "annual_price": "按年付仅需 ¥350/年",
+            "featured": true,
+            "features": [
+              "每月 300GB 极速流量",
+              "支持 5 台设备同时在线",
+              "全节点原生流媒体解锁",
+              "IPLC 专线游戏加速优化",
+              "7x24 优先工单支持"
+            ]
+          },
+          {
+            "name": "团队版",
+            "price": "¥85/月",
+            "annual_price": "按年付仅需 ¥850/年",
+            "features": [
+              "每月 1000GB 极速流量",
+              "支持 20 台设备同时在线",
+              "VIP 专属高带宽节点",
+              "支持企业定制路由",
+              "专属客户经理服务"
+            ]
+          }
+        ],
+        "clients": []
+      }
+    }
+  ],
+  "domain": {
+    "apex": "acmilgh.cn",
+    "host": "acmilgh.cn"
+  },
+  "file_hashes": {
+    "index.html": "30f09864150bea3b88d70944821b6686275333a7ebdad15b16dcfc694f74473b",
+    "sitemap.xml": "bb45b0c696d8534afe2af9c1e7f6d08b93badcc5ad7d5499d84174708d4e459e",
+    ".nojekyll": "12ae32cb1ec02d01eda3581b127c1fee3b0dc53572ed6baf239721a03d82e126",
+    "CNAME": "1bf875a598f54cb802f6a89f28fd0dfe2ade3f7c3780c5db860a4d9a0853a105",
+    "robots.txt": "57699ac15e0976566b3139f09669b2628c317d3aff94aa2c88682559517f8d61",
+    "3fdf91ba7e2e18ae1ecf48559bd33b9a.txt": "9c0c0b2486750fce214c4c639641453493be26348d347442c27dffa20b5a3a45"
+  },
+  "revision": "68a1cb3cea973bb4828769b2b3f8c8e4b188411b4f91d4a8b3ad3ba0a8f1b088"
+}
